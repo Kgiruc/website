@@ -1,0 +1,20 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass -w ./src/scss/bootstrap.scss ./src/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kgiruc/website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kgiruc/website/issues"
+  },
+  "homepage": "https://github.com/Kgiruc/website#readme"
+}
